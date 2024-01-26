@@ -2,9 +2,9 @@
 
 Made as a DBMS group project where users can view the menu of pizza store and only admin can Add, Update or Delete pizza from the Menu.
 
-## Deployed on:
+## Video Demo
 
-https://pizzariomozza.herokuapp.com/
+https://github.com/imneerajkumar/Pizzario/assets/79255742/9b91a596-4924-41ad-8a7d-cc2d58ce240b
 
 ### Available Scripts
 
